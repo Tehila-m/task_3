@@ -1,6 +1,6 @@
 
 function addNumbers(a, b) {
-    const c = 0;
-    return a + b;
+    const c = a;
+    return  c + b;
     
 }
